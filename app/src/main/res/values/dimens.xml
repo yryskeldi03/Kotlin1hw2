@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_random_img_margin_t">30dp</dimen>
+    <dimen name="bnt_random_img_text_size">16sp</dimen>
+    <dimen name="image_view_height">250dp</dimen>
+    <dimen name="et_input_url_m_top">40dp</dimen>
+</resources>
